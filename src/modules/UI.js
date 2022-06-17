@@ -1,7 +1,6 @@
 import { name, score } from './definition.js';
 
 const User = () => {
-    
   const userName = name.value;
   const userScore = score.value;
   const userInput = {
@@ -10,7 +9,6 @@ const User = () => {
     score: userScore,
   };
   return userInput;
-
 };
 
 export default User;
