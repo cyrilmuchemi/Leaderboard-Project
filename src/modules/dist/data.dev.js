@@ -15,7 +15,6 @@ var data = function data() {
     data.result.forEach(function (data) {
       _definition.scoreContainer.innerHTML += "\n        <li>".concat(data.user, ": ").concat(data.score, "</li>");
     });
-    console.log(data);
   });
 };
 

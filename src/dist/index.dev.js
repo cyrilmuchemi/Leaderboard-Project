@@ -2,11 +2,11 @@
 
 require("./style.css");
 
-var _interface = _interopRequireDefault(require("./modules/interface"));
+var _interface = _interopRequireDefault(require("./modules/interface.js"));
 
-var _definition = require("./modules/definition");
+var _definition = require("./modules/definition.js");
 
-var _await = _interopRequireDefault(require("./modules/await"));
+var _await = _interopRequireDefault(require("./modules/await.js"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 

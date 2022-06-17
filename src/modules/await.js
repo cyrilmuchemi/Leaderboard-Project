@@ -1,7 +1,7 @@
-import data from "./data.js";
+import data from './data.js';
 
 const Score = async () => {
-    await data();
-  };
+  await data();
+};
 
-  export default Score;
+export default Score;
