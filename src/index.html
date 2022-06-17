@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leader Board</title>
+</head>
+<body>
+    <section>
+        <div id="pointboard">
+            <h1>Leaderboard</h1>
+            <div class="score-body">
+                <div class="score-section">
+                    <div class="items-head">
+                        <h2>Recent Scores</h2>
+                        <button id="refresher" class="btn" type="button">Refresh</button>
+                    </div>
+                    <div id="my-scores" class="items-description items">
+                        <ul class="score-points">
+                           
+                        </ul>
+                    </div>
+                </div>
+                <div class="score-section2">
+                    <div>
+                        <h2>Add Your Score</h2>
+                    </div>
+                    <div id="myscore-form" class="score-items">
+                        <form id="add-scores" action="#" method="post">
+                            <input class="form-inputs" id= "name"  type="text" name="user" placeholder="Your Name" required >
+                            <input class="form-inputs" id="score" type="number" name="score" placeholder="Your Score" required min="0">
+                            <button id="submit-btn" class="btn" type="submit">Submit</button>
+                        </form>
+                    </div>
+            </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
