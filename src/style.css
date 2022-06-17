@@ -1,3 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+}
+
 h1 {
-  color: aquamarine;
+  font-size: 55px;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+li {
+  list-style: none;
+}
+
+li:nth-child(even) {
+  background-color: #ccc;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  padding: 70px;
+}
+
+.score-body {
+  display: flex;
+}
+
+.myscore-form {
+  display: flex;
+  flex-direction: column;
+  width: 450px;
+  margin: 0 15px;
+}
+
+.items {
+  padding: 5px;
+  margin: 15px auto;
+}
+
+.items-description {
+  border: 2px solid black;
+  overflow: hidden;
+  border-radius: 3px;
+  padding: 5px;
+}
+
+.score-points {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.scores {
+  width: 100%;
+  padding: 4px;
+}
+
+.btn {
+  cursor: pointer;
+  border: 1px solid gray;
+  border-radius: 3px;
+  box-shadow: 1px 2px 3px;
+  padding: 5px;
+  height: 35px;
+  width: 85px;
+}
+
+.btn:active {
+  box-shadow: none;
+}
+
+#add-scores {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 100%;
+  padding: 3px;
+}
+
+.form-inputs {
+  height: 14px;
+  width: 97%;
+  padding: 7px;
+  margin: 10px auto;
 }
