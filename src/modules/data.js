@@ -1,3 +1,4 @@
+import { gameURL, scoreContainer } from './definition.js';
 const data = () => {
     scoreContainer.innerHTML = '';
     fetch(gameURL)
