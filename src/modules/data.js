@@ -7,7 +7,7 @@ const data = () => {
     .then((data) => {
       data.result.forEach((data) => {
         scoreContainer.innerHTML += `
-        <li>${data.user}: ${data.score}</li>`;
+          <li>${data.user}: ${data.score}</li>`;
       });
     });
 };

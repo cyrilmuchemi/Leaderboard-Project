@@ -1,40 +1,35 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Leader Board Project
 
-# Project Name
-
-> Description the project.
+> This is a project that demonstrates the ability to fetch and use an API.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- JavaScript
 
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
 
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+Make sure you have Visual studio or any other editor installed
 
 ### Setup
+On the right side, click the dropdown menu on "code" and copy SSH
 
 ### Install
+Go tho your terminal and run git clone "SSH" command
 
 ### Usage
-
-### Run tests
+Open file on editor
 
 ### Deployment
+run npm start
 
 
 
@@ -42,15 +37,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@cyrilmuchemi](https://github.com/cyrilmuchemi)
+- Twitter: [@cyrilmuchemi](https://twitter.com/cyrilmuchemi)
+- LinkedIn: [Cyril Muchemi](https://linkedin.com/in/cyrilmuchemi)
 
 ## 🤝 Contributing
 

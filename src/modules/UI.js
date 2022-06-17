@@ -5,6 +5,7 @@ const User = () => {
   const userScore = score.value;
   const userInput = {
     user: userName,
+
     score: userScore,
   };
   return userInput;
