@@ -7,11 +7,13 @@
 
 - HTML
 - CSS
-- JavaScript
+- JavaScript ES6
+- Webpack
+- Netlify
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://64a416390207f50854795e22--joyful-wisp-c55db2.netlify.app/)
 
 
 To get a local copy up and running follow these simple example steps.
@@ -27,10 +29,6 @@ Go tho your terminal and run git clone "SSH" command
 
 ### Usage
 Open file on editor
-
-### Deployment
-run npm start
-
 
 
 ## Authors

@@ -1,7 +1,7 @@
 import data from './data.js';
 
 const Score = async () => {
-  await data();
+  data();
 };
 
 export default Score;
